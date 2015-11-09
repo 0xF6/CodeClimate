@@ -1,0 +1,20 @@
+%YAML 1.2
+---
+!CodeClimate.Deb.ConfigNewProject
+startBuild: 0
+startVersionMinor: 0
+ArtifacteTarget: "%PROJECT_ROOT%\\build\\artifacte\\%ProjectID%.jar"
+isBuildDevArtifacte: False
+NameProject: null
+ProjectID: null
+TargetGradle: build.gradlew.target
+JavaHome: "%JAVA_HOME%"
+Domen: null
+startVersionMajor: 1
+startVersionPre: 0
+isOfflineGradle: False
+PathGradle: "%USER_PROFILE%\\.gradle\\caches"
+JVMOpt: 
+  ICollection.Items: 
+    - ""
+...
